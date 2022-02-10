@@ -28,8 +28,6 @@ Data observed is in-real time so page might load for 5-7 seconds
 
 No DataBase used
 
-The main model in Database is Task model
-
 Usage examples:
 
 (/index) - The only route available
