@@ -1,4 +1,4 @@
-# Simple Top 100 Accounts by Ethereum balance from https://etherscan.io/ using Django
+# Top 100 Accounts by Ethereum balance from https://etherscan.io/ using Django
 
 ### Installation
 Copy from source
